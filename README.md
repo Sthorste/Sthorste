@@ -1,14 +1,27 @@
 
-Student at IGM - Gustave Eiffel University (Licence 3 Informatique)
+Etudiante à l'Université Gustave Eiffel, Institut Gaspard Monge M1 Informatique<br>
+En apprentissage à l'IGN : <br>
+ de septembre 2021 à septembre 2022 au <b>Service des développement Métier</b> <br>
+ puis au <b>Service Innovation Maturation Valorisation</b>
+<br>
+<h3> Compétences </h3>
 
-<h3>Currently used programming languages</h3> 
+•	Programmation orientée objet  (Java) <br>
+•	Programmation pour le WEB (HTML/CSS, Javascript, PHP) <br>
+•	Bases de données (SQL)<br>
+•	Programmation Fonctionnelle (Caml)<br>
+•	Différents langages haut et bas niveau pour l’algorithmique (C, Python)<br>
+•	Compilation (Nasm64, Flex, Bison)<br>
+<br>
+•	Travail collectif, organisation dans des projets tout au long de ma formation et en entreprise<br>
+•	Méthode  SCRUM  Agile<br>
+•	 Utilisations d’outils pour la gestion de projet (Gitlab,  Redmine)<br>
 
-<div>
-   <img id = "C" src= "https://th.bing.com/th/id/OIP.CGb5i24b-85d19BU0cd-ZwHaGd?pid=ImgDet&w=860&h=751&rs=1" height= "50"></img>
-   <img id = "javascript" src= "https://th.bing.com/th/id/OIP.8AcIyzgCiPl6P7-nKGLOGwHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7" height= "50"></img>
-  <img id = "java" src= "https://th.bing.com/th/id/R.6f1c70b89c5d16f45501c3b0168acec8?rik=xcNv%2ffhmBDcvhQ&riu=http%3a%2f%2fwww.testbytes.net%2fwp-content%2fuploads%2f2017%2f12%2fjava-screen-shot.png&ehk=eCjwoMNI3%2ba544xZIhAJB1sNOOfk4xEjTpY36qKW1I4%3d&risl=&pid=ImgRaw&r=0" height= "50"></img>
-</div>
-  
+<br>
+
+ <h3>Projets en entreprise </h3>
+ 
+ « Ma Carte », module narrations disponible en version beta sur http://macarte-qualif.ign.fr/beta/edition/narration
 
 <!---
 Sthorste/Sthorste is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
